@@ -2,7 +2,7 @@
 
 Engineering Physicist and Astronomer focused on Data Science, Data Analytics and scientific computing.
 
-My background is quantitative and combines Python, numerical analysis, data processing and machine learning applied to astronomical and satellite-related problems.
+My background combines physics, astronomy, programming and machine learning, with a strong focus on quantitative problem solving.
 
 I am currently strengthening my profile in Business Intelligence, Power BI and SQL, while building a portfolio oriented toward Data Analyst and Data Scientist roles.
 
